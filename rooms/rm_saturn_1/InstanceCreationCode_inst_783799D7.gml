@@ -1,0 +1,2 @@
+down = false;
+wait = true;

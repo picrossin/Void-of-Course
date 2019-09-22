@@ -1,0 +1,1 @@
+shoot_direction = blade_direction.left;

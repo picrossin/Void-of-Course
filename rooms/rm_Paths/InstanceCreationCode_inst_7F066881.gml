@@ -1,0 +1,1 @@
+lock_to_room = true;
