@@ -58,10 +58,11 @@ if (!dead) {
 				alarm[0] = 10;
 			}
 			if (hit_play) {
+				var smoke = instance_create_depth(x + lengthdir_x(8, i), y + lengthdir_y(8, i), depth - 1, obj_land_smoke);
+				smoke.image_angle = image_angle;
 				var hit_sound = audio_play_sound(snd_hit_wall, 5, false);
 				audio_sound_pitch(hit_sound, random_range(.8, 1.2));
 				audio_sound_gain(hit_sound, phy_speed/4, 0);
-				show_debug_message(phy_speed);
 				hit_play = false;
 			}
 			break;

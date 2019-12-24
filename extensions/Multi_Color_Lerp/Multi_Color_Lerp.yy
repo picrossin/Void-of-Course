@@ -1,7 +1,7 @@
 {
     "id": "63657fcf-27af-41ec-a21c-afc8f6d29d4b",
     "modelName": "GMExtension",
-    "mvc": "1.0",
+    "mvc": "1.2",
     "name": "Multi_Color_Lerp",
     "IncludedResources": [
         "Scripts\\color_lerp",
@@ -23,6 +23,7 @@
     "copyToTargets": -1,
     "date": "2018-31-19 12:12:59",
     "description": "",
+    "exportToGame": true,
     "extensionName": "",
     "files": [
         
@@ -43,9 +44,12 @@
     "maccompilerflags": "",
     "maclinkerflags": "",
     "macsourcedir": "",
+    "options": null,
+    "optionsFile": "options.json",
     "packageID": "com.NPC.ColorLerp",
     "productID": "",
     "sourcedir": "",
+    "supportedTargets": -1,
     "tvosProps": false,
     "tvosSystemFrameworkEntries": [
         

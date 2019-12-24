@@ -815,6 +815,14 @@
             }
         },
         {
+            "Key": "326f9e1e-f68b-4ce3-82ce-73e548981811",
+            "Value": {
+                "id": "2255ab17-7b9d-4266-8880-6ef8cf9d340c",
+                "resourcePath": "objects\\obj_land_smoke\\obj_land_smoke.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "329c6610-ed4f-472c-8ae1-3d2883bb2bc1",
             "Value": {
                 "id": "30e49955-db38-4fe3-97f1-1621f8281c54",
@@ -3444,6 +3452,14 @@
                 "id": "6fef6847-2bd5-4e72-8141-080aeed25783",
                 "resourcePath": "objects\\obj_broken_enemy_ship\\obj_broken_enemy_ship.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c4e03e9e-31c7-445a-8d4a-3c4815b50944",
+            "Value": {
+                "id": "18353b6d-b72f-4070-85a6-4b2b9420c203",
+                "resourcePath": "sprites\\spr_land_smoke\\spr_land_smoke.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

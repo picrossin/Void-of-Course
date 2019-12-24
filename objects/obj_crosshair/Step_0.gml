@@ -6,7 +6,7 @@ if (instance_exists(obj_player)) {
 		input_direction = obj_player.launch_direction;
 		input_distance = point_distance(0, 0, gamepad_axis_value(0, gp_axislh) * 30, gamepad_axis_value(0, gp_axislv) * 30);
 	} else {
-		input_direction = input_direction = obj_player.launch_direction;
+		input_direction = obj_player.launch_direction;
 		input_distance = point_distance(obj_player.x, obj_player.y, mouse_x, mouse_y);
 		if (input_distance >= 30) {
 			input_distance = 30;	
