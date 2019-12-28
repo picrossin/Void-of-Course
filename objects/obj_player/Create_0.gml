@@ -15,7 +15,7 @@ shoot_offset = 10;
 launch_direction = 0;
 
 // set deadzone if using controller
-gamepad_set_axis_deadzone(0, .3);
+gamepad_set_axis_deadzone(0, .1);
 
 // player visuals
 depth = -1001;

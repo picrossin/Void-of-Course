@@ -29,6 +29,8 @@ if (using_controller) {
 	launch_direction = point_direction(x, y, mouse_x, mouse_y);
 }
 
+show_debug_message("dir: " + string(launch_direction) + ", x: " + string(gamepad_axis_value(0, gp_axislh)) + ", y: " + string(gamepad_axis_value(0, gp_axislv)));
+
 if (instance_exists(obj_progress_loader)) {
 	if (ds_list_size(obj_progress_loader.world_2) > 0) {
 		has_gun = true;	

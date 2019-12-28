@@ -1567,6 +1567,14 @@
             }
         },
         {
+            "Key": "5c6df3ea-8f3e-42b2-8c1f-e277cff4023b",
+            "Value": {
+                "id": "40b0aeb5-8e03-4449-b8f6-131054712be2",
+                "resourcePath": "sprites\\spr_darkness_tileset\\spr_darkness_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5cecf2f5-1414-4ce2-80de-4d0a1ee33b27",
             "Value": {
                 "id": "87287aa1-9983-49c6-b2fe-2af54cbd1ae3",
@@ -2924,6 +2932,14 @@
                 "id": "f572be43-7d77-4632-94ac-f5ca4c2d0151",
                 "resourcePath": "rooms\\rm_Angry_Helilad\\rm_Angry_Helilad.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a304ae9c-1b7e-445e-b0b2-92acb895dcde",
+            "Value": {
+                "id": "3aa17c78-df7b-47b4-bdc8-b8c74568a9d9",
+                "resourcePath": "tilesets\\t_darkness_tileset\\t_darkness_tileset.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
